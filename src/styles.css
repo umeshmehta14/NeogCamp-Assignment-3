@@ -1,0 +1,38 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.tab-container {
+  width: fit-content;
+  margin: auto;
+  border: 1px solid gray;
+}
+.btn {
+  background-color: greenyellow;
+  padding: 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.slider-card {
+  border: 2px solid black;
+  padding: 1rem;
+}
+.bg-changer {
+  height: 80vh;
+}
+.chat-list {
+  list-style: none;
+  text-align: initial;
+}
+
+.tweet-box {
+  border: 2px solid rgb(8, 152, 255);
+  margin: 1rem;
+}
+.tweet-box span {
+  margin: 1rem;
+}
